@@ -1,3 +1,3 @@
 # Watson-Assistant
 
-creat chat bot using watson assistant
+create chat bot using watson assistant
